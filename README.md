@@ -1,20 +1,9 @@
-<!-- WELCOME HEADER (ADDED) -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=240&section=header&text=WELCOME&fontSize=70&fontColor=ffffff&animation=fadeIn" />
-</p>
-
-<h3 align="center">to my GitHub</h3>
-
-<h1 align="center">Hi 😎 I'm <b>Lokesh Sananse</b></h1>
-
----
-
-<!-- PREMIUM ANIMATED BANNER (UNCHANGED) -->
+<!-- PREMIUM ANIMATED BANNER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=260&section=header&text=Lokesh%20Sananse&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20|%20App%20Developer%20Intern%20|%20React%20Native&descAlignY=55&animation=fadeIn" />
 </p>
 
-<!-- TYPING EFFECT (UNCHANGED) -->
+<!-- TYPING EFFECT -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2800&pause=800&color=36BCF7&center=true&vCenter=true&width=800&lines=App+Developer+Intern;React+Native+Developer;Backend+%26+REST+API+Developer;Machine+Learning+Enthusiast;Open+to+Internships+%26+Entry-Level+Roles" />
 </p>
