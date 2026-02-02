@@ -1,6 +1,6 @@
-<!-- HANDWRITTEN WELCOME (SAME STYLE LIKE IMAGE) -->
+<!-- HANDWRITTEN WELCOME (ARTIST / BRUSH STYLE) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/GovardhaneNitin/GovardhaneNitin/main/Welcome.png" width="90%" />
+  <img src="https://raw.githubusercontent.com/GovardhaneNitin/GovardhaneNitin/main/Welcome.png" width="85%" />
 </p>
 
 <h3 align="center">to my GitHub</h3>
@@ -9,24 +9,34 @@
 
 ---
 
+<!-- PREMIUM ANIMATED BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Lokesh%20Sananse&fontSize=55&fontAlignY=35&desc=Software%20Engineer%20|%20App%20Developer%20Intern&descAlignY=55&animation=fadeIn" />
+</p>
+
+<!-- TYPING EFFECT -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Engineer;React+Native+App+Developer;Backend+%26+API+Enthusiast;Machine+Learning+Explorer" />
+</p>
+
 ---
 
 ## 👨‍💻 Professional Summary
-Software Engineer with hands-on experience in **mobile application development**, **backend systems**, and **data-driven solutions**.  
-Currently working as an **App Developer Intern**, contributing to **production-ready applications** with scalable UI, backend integration, and performance optimization.
+Detail-oriented **Software Engineer & App Developer Intern** with hands-on experience in **mobile application development**, **backend systems**, and **data-driven solutions**.  
+Currently contributing to **production-ready applications** with scalable UI, backend integration, and performance optimization.
 
-📍 Pune, Maharashtra, India
+📍 Pune, Maharashtra, India  
 
 ---
 
 ## 💼 Experience
 ### 🚀 App Developer Intern – React Native  
-**Vahtook | Pune** *(Present)*
+**Vahtook | Pune, India** *(Present)*
 
-- Developing **cross-platform mobile applications** using React Native for real-world business workflows  
-- Built **reusable UI components**, navigation flows, and scalable state management  
-- Integrated **RESTful APIs** for authentication, secure data handling, and real-time updates  
-- Collaborating in **Agile teams** using Git-based version control and sprint workflows  
+- Designing and developing **cross-platform mobile applications** using React Native  
+- Implemented **modular, reusable UI components**, navigation flows, and state management  
+- Integrated **RESTful APIs** for authentication, data retrieval, and real-time updates  
+- Collaborated with backend & design teams using **Agile practices** and Git workflows  
 
 ---
 
@@ -42,27 +52,36 @@ R.B.N.B College, Shrirampur *(2021 – 2024)*
 ---
 
 ## 🚀 Projects
-### 🔹 CreditWise – Loan Default Prediction System
-**Python | Pandas | NumPy | Scikit-learn**
 
-- Built an **end-to-end ML pipeline** to predict loan default risk  
-- Performed **data cleaning, EDA, and feature engineering**  
-- Trained & evaluated **Logistic Regression, Decision Tree, Random Forest**  
-- Used **Accuracy, Precision, Recall, F1-score** for model comparison  
+### 🔹 VoiceSnap – Audio to Text Conversion Platform
+**Spring Boot | Flask API | React.js**
+
+- Developed a **hybrid backend architecture** using Spring Boot and Flask  
+- Designed **RESTful APIs** for audio upload, transcription, storage, and retrieval  
+- Integrated speech recognition services with a responsive React.js frontend  
 
 ---
 
-### 🔹 VoiceSnap – Audio to Text Conversion Platform
-**Spring Boot | Flask | React.js**
+### 🔹 SummarIQ – AI-Powered Documentation Summarizer
+**Spring Boot | Gemini API | JavaScript**
 
-- Developed **RESTful APIs** for audio upload and speech-to-text processing  
-- Integrated frontend with backend for **real-time transcription retrieval**  
-- Designed scalable API architecture for transcription storage  
+- Built an **AI-powered Chrome extension** to summarize technical articles  
+- Generated structured summaries with **key concepts, examples, and use cases**  
+- Enabled export of summaries to **PDF and Word formats**
+
+---
+
+### 🔹 CreditWise – Loan Default Prediction System
+**Python | Pandas | NumPy | Scikit-learn**
+
+- Built an **end-to-end ML pipeline** for loan default prediction  
+- Performed **data cleaning, EDA, and feature engineering**  
+- Trained & evaluated **Logistic Regression, Decision Tree, Random Forest** models  
 
 ---
 
 ## 🛠 Technical Skills
-**Languages:** Python, Java, JavaScript, SQL, C  
+**Languages:** Java, Python, JavaScript, SQL, C  
 **Mobile:** React Native  
 **Backend & Web:** Spring Boot, Flask, React.js, REST APIs  
 **Data & ML:** Data Cleaning, EDA, Feature Engineering, Model Evaluation  
@@ -73,7 +92,7 @@ R.B.N.B College, Shrirampur *(2021 – 2024)*
 
 ## 🏆 Achievements
 - ✅ Solved **100+ algorithmic problems** on LeetCode  
-- 🥇 HackerRank certified in **Python, SQL, Problem Solving**
+- 🥇 HackerRank certified in **Java, SQL, Problem Solving**
 
 ---
 
