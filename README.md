@@ -1,34 +1,29 @@
-<!-- PREMIUM ANIMATED BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=260&section=header&text=Lokesh%20Sananse&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20|%20App%20Developer%20Intern%20|%20React%20Native&descAlignY=55&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Lokesh%20Sananse&fontSize=55&fontAlignY=35&desc=Software%20Engineer%20|%20App%20Developer%20Intern&descAlignY=55&animation=fadeIn" />
 </p>
 
-<!-- TYPING EFFECT -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2800&pause=800&color=36BCF7&center=true&vCenter=true&width=800&lines=App+Developer+Intern;React+Native+Developer;Backend+%26+REST+API+Developer;Machine+Learning+Enthusiast;Open+to+Internships+%26+Entry-Level+Roles" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Engineer;React+Native+App+Developer;Backend+%26+API+Enthusiast;Machine+Learning+Explorer" />
 </p>
 
 ---
 
-## 🎯 Internship-Focused Professional Summary
-Software Engineer with **hands-on industry experience** as an **App Developer Intern**, specializing in **React Native mobile applications**, **backend integration**, and **RESTful APIs**.  
-Strong foundation in **computer science**, **data structures**, and **machine learning workflows**.  
-Actively seeking **Software Development / App Development Internships**.
+## 👨‍💻 Professional Summary
+Software Engineer with hands-on experience in **mobile application development**, **backend systems**, and **data-driven solutions**.  
+Currently working as an **App Developer Intern**, contributing to **production-ready applications** with scalable UI, backend integration, and performance optimization.
 
-📍 Pune, Maharashtra, India  
-📧 lokeshsananse3@gmail.com  
+📍 Pune, Maharashtra, India
 
 ---
 
 ## 💼 Experience
 ### 🚀 App Developer Intern – React Native  
-**Vahtook | Pune, India** *(Present)*
+**Vahtook | Pune** *(Present)*
 
-- Developed **production-ready cross-platform mobile apps** using React Native  
-- Built **scalable, reusable UI components** and navigation flows  
+- Developing **cross-platform mobile applications** using React Native for real-world business workflows  
+- Built **reusable UI components**, navigation flows, and scalable state management  
 - Integrated **RESTful APIs** for authentication, secure data handling, and real-time updates  
-- Collaborated with backend & design teams in **Agile/Scrum** environment  
-- Used **Git & GitHub** for version control and collaborative development  
+- Collaborating in **Agile teams** using Git-based version control and sprint workflows  
 
 ---
 
@@ -47,63 +42,45 @@ R.B.N.B College, Shrirampur *(2021 – 2024)*
 ### 🔹 CreditWise – Loan Default Prediction System
 **Python | Pandas | NumPy | Scikit-learn**
 
-- Designed an **end-to-end ML pipeline** for loan default prediction  
-- Performed **data cleaning, EDA, feature engineering**  
-- Implemented **Logistic Regression, Decision Tree, Random Forest** models  
-- Evaluated models using **Accuracy, Precision, Recall, F1-score**
+- Built an **end-to-end ML pipeline** to predict loan default risk  
+- Performed **data cleaning, EDA, and feature engineering**  
+- Trained & evaluated **Logistic Regression, Decision Tree, Random Forest**  
+- Used **Accuracy, Precision, Recall, F1-score** for model comparison  
 
 ---
 
 ### 🔹 VoiceSnap – Audio to Text Conversion Platform
 **Spring Boot | Flask | React.js**
 
-- Built **RESTful APIs** for audio upload and speech-to-text processing  
-- Integrated frontend with backend for **real-time transcription**  
-- Designed scalable backend architecture for transcription storage  
+- Developed **RESTful APIs** for audio upload and speech-to-text processing  
+- Integrated frontend with backend for **real-time transcription retrieval**  
+- Designed scalable API architecture for transcription storage  
 
 ---
 
-## 🛠 Technical Skills (ATS & HR Optimized)
-**Programming Languages:** Python, Java, JavaScript, SQL, C  
-**Mobile Development:** React Native  
+## 🛠 Technical Skills
+**Languages:** Python, Java, JavaScript, SQL, C  
+**Mobile:** React Native  
 **Backend & Web:** Spring Boot, Flask, React.js, REST APIs  
-**Machine Learning:** Data Cleaning, EDA, Feature Engineering, Model Evaluation  
+**Data & ML:** Data Cleaning, EDA, Feature Engineering, Model Evaluation  
 **Databases:** MySQL, MongoDB  
-**Tools & Platforms:** Git, GitHub, Linux, Postman, VS Code, Cursor  
+**Tools:** Git, GitHub, Linux, Postman, VS Code, Cursor  
 
 ---
 
 ## 🏆 Achievements
 - ✅ Solved **100+ algorithmic problems** on LeetCode  
-- 🥇 HackerRank Certified in **Python, SQL, Problem Solving**
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LokeshSananse&theme=onedark&row=1&column=6" />
-</p>
+- 🥇 HackerRank certified in **Python, SQL, Problem Solving**
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LokeshSananse&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LokeshSananse&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=LokeshSananse&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LokeshSananse&layout=compact&theme=tokyonight&cache_seconds=1800" />
-</p>
-
----
-
-## 🔥 Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LokeshSananse&theme=tokyo-night&area=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LokeshSananse&theme=tokyonight" />
 </p>
 
 ---
