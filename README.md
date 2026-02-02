@@ -1,10 +1,13 @@
+<!-- HANDWRITTEN WELCOME (SAME STYLE LIKE IMAGE) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Lokesh%20Sananse&fontSize=55&fontAlignY=35&desc=Software%20Engineer%20|%20App%20Developer%20Intern&descAlignY=55&animation=fadeIn" />
+  <img src="https://raw.githubusercontent.com/GovardhaneNitin/GovardhaneNitin/main/Welcome.png" width="90%" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Engineer;React+Native+App+Developer;Backend+%26+API+Enthusiast;Machine+Learning+Explorer" />
-</p>
+<h3 align="center">to my GitHub</h3>
+
+<h1 align="center">Hi 😎 I'm <b>Lokesh Sananse</b></h1>
+
+---
 
 ---
 
