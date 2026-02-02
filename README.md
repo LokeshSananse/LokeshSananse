@@ -1,36 +1,91 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=220&section=header&text=WELCOME&fontSize=60&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Lokesh%20Sananse&fontSize=55&fontAlignY=35&desc=Software%20Engineer%20|%20App%20Developer%20Intern&descAlignY=55&animation=fadeIn" />
 </p>
 
-<h1 align="center">Hi 😎 I'm Lokesh Sananse</h1>
-<h3 align="center">Passionate about building engaging & scalable web experiences</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Engineer;React+Native+App+Developer;Backend+%26+API+Enthusiast;Machine+Learning+Explorer" />
+</p>
 
 ---
 
-## 👨‍💻 About Me
-- 🎓 Computer Science Student
-- 💻 Frontend / Full-Stack Developer
-- 🌱 Currently learning **React & Node.js**
-- 🚀 Interested in **Web Development & Open Source**
-- 📍 India
+## 👨‍💻 Professional Summary
+Software Engineer with hands-on experience in **mobile application development**, **backend systems**, and **data-driven solutions**.  
+Currently working as an **App Developer Intern**, contributing to **production-ready applications** with scalable UI, backend integration, and performance optimization.
+
+📍 Pune, Maharashtra, India
 
 ---
 
-## 🛠 Tech Stack
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+## 💼 Experience
+### 🚀 App Developer Intern – React Native  
+**Vahtook | Pune** *(Present)*
+
+- Developing **cross-platform mobile applications** using React Native for real-world business workflows  
+- Built **reusable UI components**, navigation flows, and scalable state management  
+- Integrated **RESTful APIs** for authentication, secure data handling, and real-time updates  
+- Collaborating in **Agile teams** using Git-based version control and sprint workflows  
+
+---
+
+## 🎓 Education
+**M.Sc. Computer Science**  
+MIT World Peace University, Pune *(2024 – 2026)*  
+📊 CGPA: **8.23 / 10**
+
+**B.Sc. Computer Science**  
+R.B.N.B College, Shrirampur *(2021 – 2024)*  
+📊 CGPA: **8.00 / 10**
+
+---
+
+## 🚀 Projects
+### 🔹 CreditWise – Loan Default Prediction System
+**Python | Pandas | NumPy | Scikit-learn**
+
+- Built an **end-to-end ML pipeline** to predict loan default risk  
+- Performed **data cleaning, EDA, and feature engineering**  
+- Trained & evaluated **Logistic Regression, Decision Tree, Random Forest**  
+- Used **Accuracy, Precision, Recall, F1-score** for model comparison  
+
+---
+
+### 🔹 VoiceSnap – Audio to Text Conversion Platform
+**Spring Boot | Flask | React.js**
+
+- Developed **RESTful APIs** for audio upload and speech-to-text processing  
+- Integrated frontend with backend for **real-time transcription retrieval**  
+- Designed scalable API architecture for transcription storage  
+
+---
+
+## 🛠 Technical Skills
+**Languages:** Python, Java, JavaScript, SQL, C  
+**Mobile:** React Native  
+**Backend & Web:** Spring Boot, Flask, React.js, REST APIs  
+**Data & ML:** Data Cleaning, EDA, Feature Engineering, Model Evaluation  
+**Databases:** MySQL, MongoDB  
+**Tools:** Git, GitHub, Linux, Postman, VS Code, Cursor  
+
+---
+
+## 🏆 Achievements
+- ✅ Solved **100+ algorithmic problems** on LeetCode  
+- 🥇 HackerRank certified in **Python, SQL, Problem Solving**
 
 ---
 
 ## 📊 GitHub Stats
-![Lokesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=LokeshSananse&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LokeshSananse&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LokeshSananse&theme=tokyonight" />
+</p>
 
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: https://linkedin.com/in/your-link
-- 🌐 Portfolio: https://your-portfolio-link
-- ✉️ Email: your@email.com
+- 📧 Email: **lokeshsananse3@gmail.com**
+- 💼 LinkedIn: https://linkedin.com/in/lokesh-sananse
+- 🧑‍💻 GitHub: https://github.com/LokeshSananse
