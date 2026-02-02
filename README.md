@@ -1,7 +1,20 @@
+<!-- WELCOME STYLE HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Lokesh%20Sananse&fontSize=55&fontAlignY=35&desc=Software%20Engineer%20|%20App%20Developer%20Intern&descAlignY=55&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=240&section=header&text=WELCOME&fontSize=70&fontColor=ffffff&animation=fadeIn" />
 </p>
 
+<h3 align="center">to my GitHub</h3>
+
+<h1 align="center">Hi 😎 I'm <b>Lokesh Sananse</b></h1>
+
+---
+
+<!-- NAME & ROLE BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Lokesh%20Sananse&fontSize=45&fontAlignY=35&desc=Software%20Engineer%20|%20App%20Developer%20Intern&descAlignY=55&animation=fadeIn" />
+</p>
+
+<!-- TYPING EFFECT -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Engineer;React+Native+App+Developer;Backend+%26+API+Enthusiast;Machine+Learning+Explorer" />
 </p>
@@ -76,7 +89,7 @@ R.B.N.B College, Shrirampur *(2021 – 2024)*
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LokeshSananse&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LokeshSananse&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 <p align="center">
